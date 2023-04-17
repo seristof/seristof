@@ -1,5 +1,5 @@
 - 👋 Hello! My name is Stephanie 
-- 🏫 Computer Science, Systems, and Computational Biology @ Carnegie Mellon University
+- 🏫 Computer Science and Computational Biology @ Carnegie Mellon University
 - ✉️ Contact @ seristof@andrew.cmu.edu
 
 <!---
