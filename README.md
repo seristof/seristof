@@ -1,6 +1,6 @@
 - 👋 Hello! My name is Stephanie 
-- 🏫 Computer Science and Computational Biology @ Carnegie Mellon University
-- ✉️ Contact @ seristof@andrew.cmu.edu
+- I am a SWE @ MongoDB
+- ✉️ Contact @ stephanie.eristoff@gmail.com
 
 <!---
 seristof/seristof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
