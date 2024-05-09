@@ -1,5 +1,5 @@
 - 👋 Hello! My name is Stephanie 
-- I am a SWE @ MongoDB
+- 🍃 I am a SWE 2 @ MongoDB
 - ✉️ Contact @ stephanie.eristoff@gmail.com
 
 <!---
